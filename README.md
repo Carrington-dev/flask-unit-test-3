@@ -1,7 +1,6 @@
-# flask-unit-test-2
+# Flask Unit Testing
 Building and testing flask API systems
 
-# Flask Unit Testing
 
 ## Overview
 This project demonstrates how to write unit tests for a Flask application using `unittest` and `pytest`. The repository contains a simple Flask app and test cases to ensure its functionality.
